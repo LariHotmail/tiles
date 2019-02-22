@@ -1,0 +1,13 @@
+{
+  "name": "genz_5_10",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "0",
+  "maxzoom": "10",
+  "scale": "1.000000",
+  "bounds": [-180.00000000, -60.00130218, 179.99524800, 85.00000756],
+  "profile": "mercator"
+}
